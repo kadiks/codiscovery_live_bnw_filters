@@ -1,0 +1,33 @@
+#eye-dropper {
+    height: 50px;
+    width: 50px;
+    border: #AAA 1px solid;
+    display: inline-block;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+body {
+    font-family: 'EB Garamond', serif;
+}
+
+button img {
+    width: 50px;
+}
+button {
+    border: none;
+    cursor: pointer;
+    font-family: 'EB Garamond', serif;
+}
+
+button p {
+    margin: 0;
+}
+
+canvas {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 15px;
+}
