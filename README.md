@@ -1,4 +1,6 @@
-# Black & white filter (en route to an Instagram Clone part 1/3)
+# Black & white filters (en route to an Instagram Clone part 1/3)
+
+![img](./extras/bnw_filters.gif)
 
 ## Resource
 
